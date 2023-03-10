@@ -108,8 +108,11 @@ margin-top: 5%;
 
 }
 @media only screen and (max-width: 600px) {
-   
+    body {
+      background-color: lightblue;
+    }
     .detail p{
         font-size: 10px;
+        font-weight: bold;
     }
   }
