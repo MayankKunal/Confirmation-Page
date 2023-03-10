@@ -22,7 +22,7 @@ margin-left: 5%;
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 500;
-font-size: 2em;
+font-size: 2vw;
 line-height: 38px;
 
 
@@ -116,5 +116,9 @@ margin-top: 5%;
     .progress{
         width:60%;
         margin-left: 20%;
+    }
+    .header{
+        font-size: 4vw;
+        margin-left: 1%;
     }
   }
